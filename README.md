@@ -9,7 +9,6 @@ Things that i want in my website:
 # A description:
   Discord (i want icon of discord here): xLowie#4323
   Github (github icon here): https://github.com/xLowie
-  ... [more info will come later]
   
   you can find icons in the resources folder in the repo
 
